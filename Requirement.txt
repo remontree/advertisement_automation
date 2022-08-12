@@ -1,0 +1,14 @@
+pip로 설치하기
+selenium
+time
+pyautogui
+pyperclip
+chromedriver_autoinstaller
+openpyxl
+pandas
+datetime
+autoit
+
+로컬 모듈
+upload
+send
